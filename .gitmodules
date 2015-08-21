@@ -1,0 +1,6 @@
+[submodule "ExData_Plotting1"]
+	path = ExData_Plotting1
+	url = https://github.com/fredkelly/ExData_Plotting1
+[submodule "gcd_proj"]
+	path = gcd_proj
+	url = https://github.com/fredkelly/gcd-proj
